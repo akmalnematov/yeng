@@ -1,0 +1,5 @@
+aiogram==3.17.0
+yt-dlp>=2024.10.7
+pydantic==2.9.2
+sqlite-utils==3.37
+python-dotenv>=1.0.1
